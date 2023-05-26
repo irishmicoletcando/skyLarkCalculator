@@ -4,5 +4,11 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#F00</color>
     <color name="almostBlack">#222</color>
-    <color name="orange">#FF8c00</color>
+    <color name="inputFontColor">#A7B7C2</color>
+    <color name="answerFontColor">#474648</color>
+    <color name="calculatorBackgroundColor">#F7F8FB</color>
+    <color name="numbersFontColor">#54C2FE</color>
+    <color name="operationsBackgroundColor">#ACE1FE</color>
+    <color name="operationsFontColor">#18A0FF</color>
+    <color name="equalsAndACBackgroundColor">#1990FE</color>
 </resources>
