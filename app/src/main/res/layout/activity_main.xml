@@ -52,10 +52,11 @@
     <LinearLayout
         style="@style/buttonRow">
 
+
         <Button
             style="@style/buttonEqualsAndAC"
             android:onClick="allClearAction"
-            android:text="AC"/>
+            android:text="AC" />
         <Button
             style="@style/buttonNumber"
             android:onClick="backSpaceAction"
@@ -100,7 +101,8 @@
             android:text="6" />
         <Button
             style="@style/buttonOperator"
-            android:text="-"/>
+            android:text="-"
+            android:textSize="40dp"/>
 
     </LinearLayout>
 
@@ -127,7 +129,8 @@
 
         <Button
             style="@style/buttonNumber"
-            android:text="."/>
+            android:text="."
+            android:textSize="40dp"/>
         <Button
             style="@style/buttonNumber"
             android:text="0"/>
